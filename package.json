@@ -6,6 +6,8 @@
   "author": "rockhopper-penguin <46835999+rockhopper-penguin@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "qrcode": "^1.4.4"
+    "qrcode": "^1.4.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
   }
 }
