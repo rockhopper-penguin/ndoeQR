@@ -1,0 +1,11 @@
+version: "3"
+services:
+  node-qr:
+    image: node:12.18.3-buster
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/src
+    stdin_open: true
+    tty: true
+    command: /bin/sh
