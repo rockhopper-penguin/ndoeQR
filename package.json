@@ -5,6 +5,9 @@
   "repository": "https://github.com/rockhopper-penguin/ndoeQR",
   "author": "rockhopper-penguin <46835999+rockhopper-penguin@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "serve": "te-node index.ts"
+  },
   "dependencies": {
     "@types/express": "^4.17.7",
     "@types/node": "^14.0.27",
